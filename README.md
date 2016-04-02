@@ -2,6 +2,8 @@
 
 Boilerplate for a golang CLI
 
+[![Build Status](https://travis-ci.org/mmb/gocliboil.svg?branch=master)](https://travis-ci.org/mmb/gocliboil)
+
 To run the tests:
 
 ```
