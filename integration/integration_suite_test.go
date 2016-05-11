@@ -1,4 +1,4 @@
-package gocliboiltest_test
+package integration_test
 
 import (
 	. "github.com/onsi/ginkgo"
@@ -7,7 +7,7 @@ import (
 	"testing"
 )
 
-func TestGocliboiltest(t *testing.T) {
+func TestIntegration(t *testing.T) {
 	RegisterFailHandler(Fail)
-	RunSpecs(t, "Gocliboiltest Suite")
+	RunSpecs(t, "Integration Suite")
 }
